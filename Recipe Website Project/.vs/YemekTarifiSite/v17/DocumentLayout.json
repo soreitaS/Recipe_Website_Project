@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\YemekTarifiSite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B24E32FE-9918-4BC5-B091-A139E4F29DB6}|YemekTarifiSite\\Yemek_Tarifleri_Sitem.csproj|c:\\users\\\u0130brah\u0130m\\desktop\\c# projeler\\yemektarifisite\\yemektarifisite\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B24E32FE-9918-4BC5-B091-A139E4F29DB6}|YemekTarifiSite\\Yemek_Tarifleri_Sitem.csproj|solutionrelative:yemektarifisite\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24E32FE-9918-4BC5-B091-A139E4F29DB6}|YemekTarifiSite\\Yemek_Tarifleri_Sitem.csproj|C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\YemekTarifiSite\\yemektarifisite\\anasayfa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B24E32FE-9918-4BC5-B091-A139E4F29DB6}|YemekTarifiSite\\Yemek_Tarifleri_Sitem.csproj|solutionrelative:yemektarifisite\\anasayfa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.aspx",
+              "DocumentMoniker": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\YemekTarifiSite\\YemekTarifiSite\\Admin.aspx",
+              "RelativeDocumentMoniker": "YemekTarifiSite\\Admin.aspx",
+              "ToolTip": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\YemekTarifiSite\\YemekTarifiSite\\Admin.aspx",
+              "RelativeToolTip": "YemekTarifiSite\\Admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2023-12-22T19:15:31.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnaSayfa.aspx",
+              "DocumentMoniker": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\YemekTarifiSite\\YemekTarifiSite\\AnaSayfa.aspx",
+              "RelativeDocumentMoniker": "YemekTarifiSite\\AnaSayfa.aspx",
+              "ToolTip": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\YemekTarifiSite\\YemekTarifiSite\\AnaSayfa.aspx",
+              "RelativeToolTip": "YemekTarifiSite\\AnaSayfa.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2023-12-19T13:59:27.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
